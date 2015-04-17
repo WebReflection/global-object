@@ -40,7 +40,7 @@ Forget about `self` or `typeof window` checks, we've got `global`!
 ES6, node itself, whatever ... 
 ```js
 // ES6
-import global from 'global-object'
+import global from 'global-object';
 
 // npm require
 var global = require('global-object');
